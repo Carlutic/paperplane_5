@@ -1,0 +1,32 @@
+[
+ {
+  "id": 191015,
+  "name": "Burnice",
+  "displayName": "Burnice by Kirito 1.02 - Burnice_1.02_sph",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Burnice",
+  "image": "Covers/Burnice.png",
+  "pmx": "Burnice_1.02_sph.pmx",
+  "base": "https://carlutic.github.io/paperplane_5/",
+  "noPhysics": true
+ },
+ {
+  "id": 191016,
+  "name": "CastoriceSkin",
+  "displayName": "CastoriceSkin tdzg - 镰",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/CastoriceSkin",
+  "image": "Covers/CastoriceSkin.png",
+  "pmx": "镰.pmx",
+  "base": "https://carlutic.github.io/paperplane_5/",
+  "noPhysics": true
+ }
+]
