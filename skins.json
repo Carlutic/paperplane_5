@@ -11,8 +11,7 @@
   "directory": "chars/Burnice",
   "image": "Covers/Burnice.png",
   "pmx": "Burnice_1.02_sph.pmx",
-  "base": "https://carlutic.github.io/paperplane_5/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_5/"
  },
  {
   "id": 191016,
@@ -26,7 +25,6 @@
   "directory": "chars/CastoriceSkin",
   "image": "Covers/CastoriceSkin.png",
   "pmx": "镰.pmx",
-  "base": "https://carlutic.github.io/paperplane_5/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_5/"
  }
 ]
