@@ -11,8 +11,7 @@
   "directory": "chars/Burnice",
   "image": "Covers/Burnice.png",
   "pmx": "Burnice_1.02.pmx",
-  "base": "https://carlutic.github.io/paperplane_5/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_5/"
  },
  {
   "id": 190020,
@@ -26,8 +25,7 @@
   "directory": "chars/CastoriceSkin",
   "image": "Covers/CastoriceSkin.png",
   "pmx": "遐蝶·幽梦翩跹 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_5/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_5/"
  },
  {
   "id": 190021,
@@ -41,7 +39,6 @@
   "directory": "chars/ChangFeng",
   "image": "Covers/ChangFeng.png",
   "pmx": "長風-天青勝玉 Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_5/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_5/"
  }
 ]
